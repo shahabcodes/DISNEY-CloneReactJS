@@ -1,6 +1,5 @@
 # Disney+ Clone
 
-[**Live Demo**](https://disneyplus.dionisiusdarryl.com/)  
 [**Live Demo** (with fireauth)](https://disney-plus-clone-23ce8.web.app/)
 
 ![](./img/1.jpg)
